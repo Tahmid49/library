@@ -1,0 +1,125 @@
+
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  margin: -8px -8px -8px -8px;
+  padding: 7px 7px 7px 7px;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.books{
+    margin: -5px -8px 16px 1px;
+    padding: 14px 86px 11px 600px;
+    background-color: #c9cedf;
+}
+
+.button{color: rgb(85, 125, 134);
+    border-radius: 20px;
+   
+    border: 5px solid rgb(40, 240, 147);
+    margin: 8px 9px 8px 66px;
+    padding: 10px 50px 10px 50px;
+    }
+    .sbook{
+        background-color: #c9cedf;
+        margin: -21px -8px 8px 1px;
+    }
+    .hemu {
+        margin: 16px 22px -2px 66px;
+        padding: 21px 990px 2px 30px;
+    }
+    .golpo {
+        margin: -446px 22px -2px 421px;
+        padding: 26px 1035px 22px 19px
+       }
+        
+.buttonone{color: rgb(85, 125, 134);
+    border-radius: 20px;
+   
+    border: 5px solid rgb(40, 240, 147);
+    margin: -9px 16px 8px 500px;
+    padding: 10px 50px 10px 50px;
+    }
+    .saradon{
+
+            margin: -446px 22px -2px 421px;
+            padding: 26px 1035px 22px 437px
+    
+    }
+    .buttontwo{color: rgb(85, 125, 134);
+        border-radius: 20px;
+       
+        border: 5px solid rgb(40, 240, 147);
+        margin: -9px 16px 8px 915px;
+        padding: 10px 50px 10px 50px;
+        }
+        .hhed{margin: 9px 9px 9px 500px;}
+        .ajad{
+          margin: 9px 9px 9px -2px;
+          
+        }
+        .aj{    margin: 14px -677px 56px 359px;
+          padding: 9px 9px 9px 9px;}
+          .tahmid{
+            background-color: #333;
+            color: white;
+            margin: 38px -1100px 9px -88px;
+            padding: 9px 9px 9px 9px;
+          }
